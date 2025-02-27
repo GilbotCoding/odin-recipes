@@ -1,0 +1,1 @@
+This is the first "The-Odin-Project" git-project 
